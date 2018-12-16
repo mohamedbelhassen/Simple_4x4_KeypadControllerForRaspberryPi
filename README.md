@@ -26,7 +26,7 @@ After finishing the modification of the behavior of various keys of the Keypad, 
 # What is the default behavior of this controller?
 By pressing the keys on the keypad, the script prints the names of the various keys pressed in the terminal.
 
-# Further tutoraials
+# Further tutorials
 To explore other useful tutorials about Raspberry Pi and Android and web development, you can subsribe to our :
 - Youtube Channel: https://www.youtube.com/channel/UCAXveSJOkPRjy77R6xT64kA
 - Facebook Page: https://www.facebook.com/creative.team.tunisia/
